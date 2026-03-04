@@ -1,6 +1,8 @@
 # 纺织品检测数据自动化处理平台 (Demo)
 ## 👤 项目负责人：张启豪
-**[🔗 点击进入在线演示地址](https://demo-knud.onrender.com)**
+> **🔗 传送门：[Textile QC Automation - 在线演示](https://demo-knud.onrender.com)**
+> 
+> *💡 温馨提示：由于部署在 Render 免费服务上，若系统处于休眠状态，首次加载可能需要 **15-20 秒** 唤醒环境，请耐心等待。*
 
 
 ## 🚀 项目概述
